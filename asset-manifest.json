@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sowmya-portfolio/static/css/main.8cdbed66.css",
-    "main.js": "/sowmya-portfolio/static/js/main.ac08ba90.js",
+    "main.js": "/sowmya-portfolio/static/js/main.d564aacb.js",
     "static/media/SowmyaPic.jpg": "/sowmya-portfolio/static/media/SowmyaPic.e2558681146253983ead.jpg",
     "static/media/10132021-bm-slu-file-03 copy.jpeg": "/sowmya-portfolio/static/media/10132021-bm-slu-file-03 copy.2ab1b5a2e3b3ae38e13e.jpeg",
     "index.html": "/sowmya-portfolio/index.html",
     "main.8cdbed66.css.map": "/sowmya-portfolio/static/css/main.8cdbed66.css.map",
-    "main.ac08ba90.js.map": "/sowmya-portfolio/static/js/main.ac08ba90.js.map"
+    "main.d564aacb.js.map": "/sowmya-portfolio/static/js/main.d564aacb.js.map"
   },
   "entrypoints": [
     "static/css/main.8cdbed66.css",
-    "static/js/main.ac08ba90.js"
+    "static/js/main.d564aacb.js"
   ]
 }
