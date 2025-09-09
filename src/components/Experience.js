@@ -5,7 +5,7 @@ const experiences = [
   {
     role: "Graduate Research Assistant",
     company: "Saint Louis University, Missouri, USA",
-    duration: "Jan 2025 – May 2025",
+    duration: "Dec 2023 – May 2025",
     
     bullets: [
       "	Architected and refined backend systems using Spring Framework, optimizing RESTful APIs to improve data processing efficiency by 30% and reduce API response time by 20%, resulting in increased user engagement for the Loan Lending Project.",
