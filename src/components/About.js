@@ -39,9 +39,9 @@ export default function About() {
 
         <p className="text-lg text-gray-300 leading-relaxed">
         <p className="text-lg text-gray-300 leading-relaxed">
-        I am a results-oriented Java Full Stack Developer with a Master’s degree in Computer and Information Sciences from Saint Louis University. 
+        I am a results-oriented Software Developer with a Master’s degree in Computer and Information Sciences from Saint Louis University. 
         I bring hands-on experience in designing and developing scalable web applications using Java, Spring Boot, RESTful APIs, and MySQL. 
-        During my time at Wipro Technologies, I worked on enterprise-grade billing and customer service platforms, contributing to backend development, API integration, and secure data handling.
+        During my time at Wipro Technologies, I worked on CitiBank's Credit card transations platform, contributing to backend development, API integration, and secure data handling.
         I’m proficient in frontend technologies like React.js and have deployed cloud-based applications using Docker and AWS. With a strong foundation in Agile and CI/CD practices, I am committed to building reliable, efficient, and maintainable software solutions.
         
 </p>
